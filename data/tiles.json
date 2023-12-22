@@ -1,0 +1,307 @@
+[
+  {
+    "buttonCost":5,
+    "timeValue":3,
+    "income":1,
+    "shape": [
+      [0, 1, 1, 0],
+      [1, 1, 1, 1],
+      [0, 1, 1, 0]
+    ]
+  },
+  {
+    "buttonCost":7,
+    "timeValue":6,
+    "income":3,
+    "shape": [
+      [0, 1, 1, 1],
+      [1, 1, 1, 0]
+    ]
+  },
+  {
+    "buttonCost":7,
+    "timeValue":4,
+    "income":2,
+    "shape": [
+      [0, 1, 1, 0],
+      [1, 1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":2,
+    "timeValue":3,
+    "income":0,
+    "shape": [
+      [1, 0, 1],
+      [1, 1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "buttonCost":8,
+    "timeValue":6,
+    "income":3,
+    "shape": [
+      [1, 1, 0],
+      [1, 1, 0],
+      [0, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":1,
+    "timeValue":2,
+    "income":0,
+    "shape": [
+      [0, 0, 0, 1],
+      [1, 1, 1, 1],
+      [1, 0, 0, 0]
+    ]
+  },
+  {
+    "buttonCost":10,
+    "timeValue":3,
+    "income":2,
+    "shape": [
+      [1, 0, 0, 0],
+      [1, 1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":1,
+    "timeValue":2,
+    "income":0,
+    "shape": [
+      [1, 0, 1],
+      [1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":2,
+    "timeValue":2,
+    "income":0,
+    "shape": [
+      [0, 1, 0],
+      [1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":2,
+    "timeValue":1,
+    "income":0,
+    "shape": [
+      [0, 0, 1, 0],
+      [1, 1, 1, 1],
+      [0, 1, 0, 0]
+    ]
+  },
+  {
+    "buttonCost":2,
+    "timeValue":3,
+    "income":1,
+    "shape": [
+      [1, 1, 0, 0],
+      [0, 1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":3,
+    "timeValue":2,
+    "income":1,
+    "shape": [
+      [1, 1, 0],
+      [0, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":7,
+    "timeValue":1,
+    "income":1,
+    "shape": [
+      [1, 1, 1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":4,
+    "timeValue":6,
+    "income":2,
+    "shape": [
+      [0, 0, 1],
+      [1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":3,
+    "timeValue":6,
+    "income":2,
+    "shape": [
+      [0, 1, 0],
+      [1, 1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "buttonCost":5,
+    "timeValue":5,
+    "income":2,
+    "shape": [
+      [0, 1, 0],
+      [0, 1, 0],
+      [1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":3,
+    "timeValue":1,
+    "income":0,
+    "shape": [
+      [0, 1],
+      [1, 1]
+    ]
+  },
+  {
+    "buttonCost":1,
+    "timeValue":4,
+    "income":1,
+    "shape": [
+      [0, 0, 1, 0, 0],
+      [1, 1, 1, 1, 1],
+      [0, 0, 1, 0, 0]
+    ]
+  },
+  {
+    "buttonCost":1,
+    "timeValue":3,
+    "income":0,
+    "shape": [
+      [0, 1],
+      [1, 1]
+    ]
+  },
+  {
+    "buttonCost":3,
+    "timeValue":4,
+    "income":1,
+    "shape": [
+      [0, 0, 1, 0],
+      [1, 1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":3,
+    "timeValue":3,
+    "income":1,
+    "shape": [
+      [1, 1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":10,
+    "timeValue":4,
+    "income":3,
+    "shape": [
+      [0, 0, 1],
+      [0, 1, 1],
+      [1, 1, 0]
+    ]
+  },
+  {
+    "buttonCost":5,
+    "timeValue":4,
+    "income":2,
+    "shape": [
+      [0, 1, 0],
+      [1, 1, 1],
+      [0, 1, 0]
+    ]
+  },
+  {
+    "buttonCost":2,
+    "timeValue":2,
+    "income":0,
+    "shape": [
+      [0, 1, 1],
+      [1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":2,
+    "timeValue":2,
+    "income":0,
+    "shape": [
+      [1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":4,
+    "timeValue":2,
+    "income":1,
+    "shape": [
+      [0, 0, 1],
+      [1, 1, 1]
+    ]
+  },
+  {
+    "buttonCost":7,
+    "timeValue":2,
+    "income":2,
+    "shape": [
+      [1, 0, 0, 0],
+      [1, 1, 1, 1],
+      [1, 0, 0, 0]
+    ]
+  },
+  {
+    "buttonCost":0,
+    "timeValue":3,
+    "income":1,
+    "shape": [
+      [0, 1, 0, 0],
+      [1, 1, 1, 1],
+      [0, 1, 0, 0]
+    ]
+  },
+  {
+    "buttonCost":6,
+    "timeValue":5,
+    "income":2,
+    "shape": [
+      [1, 1],
+      [1, 1]
+    ]
+  },
+  {
+    "buttonCost":10,
+    "timeValue":5,
+    "income":3,
+    "shape": [
+      [1, 1, 1, 1],
+      [1, 1, 0, 0]
+    ]
+  },
+  {
+    "buttonCost":2,
+    "timeValue":1,
+    "income":0,
+    "shape": [
+      [1, 1]
+    ]
+  },
+  {
+    "buttonCost":4,
+    "timeValue":2,
+    "income":0,
+    "shape": [
+      [0, 1, 1, 1],
+      [1, 1, 1, 0]
+    ]
+  },
+  {
+    "buttonCost":1,
+    "timeValue":5,
+    "income":1,
+    "shape": [
+      [1, 0, 0, 1],
+      [1, 1, 1, 1]
+    ]
+  }
+]
