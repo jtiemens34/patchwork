@@ -1,6 +1,6 @@
 "use client";
 
-import TileComponent from "@/components/Tile";
+import TileComponent from "@/components/tile/Tile";
 import { Button } from "@/components/ui/button";
 import tiles from "@/data/tiles.json";
 import { useState } from "react";

@@ -18,6 +18,7 @@ interface TileProps {
   }
 }
 
+// TODO: Fix hovercard positioning
 const TileComponent = (props: TileProps) => {
   const { buttonCost, timeValue, income, shape } = props.tileData;
   return ( 
