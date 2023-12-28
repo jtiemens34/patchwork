@@ -1,5 +1,6 @@
 "use client";
 
+import PlayerGrid from "@/components/playergrid/player-grid";
 import TileComponent from "@/components/tile/Tile";
 import { Button } from "@/components/ui/button";
 import tiles from "@/data/tiles.json";
@@ -19,6 +20,7 @@ export default function Home() {
       <Button onClick={newTile}>
         Generate new tile
       </Button>
+      <PlayerGrid playerNumber={1} />
     </>
   );
 }
