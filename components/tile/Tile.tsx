@@ -27,7 +27,7 @@ const TileComponent = (props: TileProps) => {
         <HoverCardTrigger asChild>
           <div>
             {shape.map((line) => (
-              <div className="max-h-[40px]">
+              <div className="max-h-[50px]">
                 {line.map((tile) => (
                   tile == 0 ? <EmptyTile /> : <FilledTile />
                 ))}

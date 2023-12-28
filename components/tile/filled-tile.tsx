@@ -1,6 +1,6 @@
 const FilledTile = () => {
   return ( 
-    <div className="inline-block bg-black w-10 h-10 m-0 p-0" />
+    <div className="inline-block bg-black w-[50px] h-[50px] m-0 p-0" />
   );
 }
  
